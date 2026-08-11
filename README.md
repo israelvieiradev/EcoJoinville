@@ -22,7 +22,7 @@ API de teste: `https://6860899b8e74864084437167.mockapi.io`
 
 -  Git 2.49: https://git-scm.com
 -  VS Code: https://code.visualstudio.com
--  Chrome 151.0.7922.108: https://www.google.com/intl/pt-BR/chrome/ 
+-  Google Chrome 151.0.7922.108: https://www.google.com/intl/pt-BR/chrome/ 
 
 ## Acesso
 
