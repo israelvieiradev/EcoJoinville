@@ -3,6 +3,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # Sobre
 
@@ -15,6 +16,10 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 API de teste: `https://6860899b8e74864084437167.mockapi.io`
 
 # Execução
+
+## Ferramentas
+  -  Git 2.49: https://git-scm.com/
+  -  VS Code: https://code.visualstudio.com/
 
 - Landing Page: `http://127.0.0.1:5500/landing-page/`
 - Tela de Login de Parceiros: `http://127.0.0.1:5500/login-parceiros`
