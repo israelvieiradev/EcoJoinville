@@ -28,7 +28,7 @@ headers: {"Content-Type": "application/json"
                 criarCard(parceiro);
             } 
         });
-    });
+    }); // FAZ O FILTRO
 
     input.addEventListener('input', () => {
         if (input.value === '') {
@@ -36,7 +36,7 @@ headers: {"Content-Type": "application/json"
             parceiros.forEach(parceiro => {
                 criarCard(parceiro);
             });
-        }
+        } //CRIA DE NOVO TODOS OS CARDS SE O INPUT ESTIVER VAZIO
     });
 })
 .catch(err => {
