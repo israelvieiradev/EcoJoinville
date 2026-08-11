@@ -4,6 +4,7 @@
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 # Sobre
 
@@ -21,6 +22,7 @@ API de teste: `https://6860899b8e74864084437167.mockapi.io`
 
 -  Git 2.49: https://git-scm.com
 -  VS Code: https://code.visualstudio.com
+-  Chrome 151.0.7922.108: https://www.google.com/intl/pt-BR/chrome/ 
 
 ## Acesso
 
