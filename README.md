@@ -18,8 +18,11 @@ API de teste: `https://6860899b8e74864084437167.mockapi.io`
 # Execução
 
 ## Ferramentas
-  -  Git 2.49: https://git-scm.com/
-  -  VS Code: https://code.visualstudio.com/
+
+-  Git 2.49: https://git-scm.com
+-  VS Code: https://code.visualstudio.com
+
+## Acesso
 
 - Landing Page: `http://127.0.0.1:5500/landing-page/`
 - Tela de Login de Parceiros: `http://127.0.0.1:5500/login-parceiros`
