@@ -16,7 +16,7 @@ API de teste: `https://6860899b8e74864084437167.mockapi.io`
 
 # Execução
 
-- Landing page: `http://127.0.0.1:5500/landing-page/`
+- Landing Page: `http://127.0.0.1:5500/landing-page/`
 - Tela de Login de Parceiros: `http://127.0.0.1:5500/login-parceiros`
 
 1. Logue com o e-mail cadastrado e use qualquer senha
